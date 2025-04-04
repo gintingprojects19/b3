@@ -540,10 +540,12 @@ font-family: "Albert Sans", sans-serif;
         display: block;
     }
     .the-quote{
-        
-        width: 70%;
+         width: 95%;
         margin-left: 14%;
-        margin-top: 20px;
+        margin-top: 16px;
+        margin-left: 0px;
+        height: 480px;      
+
         
     }
     #video{
